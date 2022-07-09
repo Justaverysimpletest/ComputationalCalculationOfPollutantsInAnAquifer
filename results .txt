@@ -1,0 +1,12 @@
+Erotima 1
+
+Method     Tna(days)
+Symbolic   1377.6074
+ODE45      1346.1346
+RK4        1379.0000
+Erotima 2
+
+Method     Xa,n (megacells/lt)
+symbolic   372.3063
+ODE45      367.8000
+RK4        383.6000
